@@ -6,7 +6,7 @@
 
 
 body {
-    background-image: url(image.png);
+    background-image: url('image.png');
     font-family: Bai jamjuree;
 }
 
@@ -39,9 +39,14 @@ body {
     font-size: 1vw;
 }
 
+.cartao__conteudo p{
+    margin-top: 1rem;
+    padding: 2rem;
+}
 
-
-
+.cartao__conteudo__pergunta {
+    color: var(--text-color);
+}
 
 
 footer {
