@@ -1,53 +1,52 @@
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Make',
+    'Como escolher a cor da base?',
+    'Teste a base na mandíbula; ela deve se misturar com o tom da pele.'
+
+criaCartao(
+    'Make',
+    'O que é contorno?',
+    'Contorno é a técnica de escurecer áreas do rosto para definir e esculpir a aparência.'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Make',
+    'Para que serve o iluminador?',
+    'O iluminador é usado para destacar áreas do rosto, proporcionando um brilho saudável.'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Make',
+    'Como evitar que o batom borre?',
+    'Use um lápis labial para contornar os lábios e aplique o batom com cuidado para evitar borrões.'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Make',
+    'O que é maquiagem "no makeup"?',
+    'É uma técnica que busca realçar a beleza natural, usando produtos leves e discretos.'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Make',
+    'Como aplicar blush corretamente?',
+    'Aplique o blush nas maçãs do rosto e esfume em direção às têmporas para um efeito natural.'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Make',
+    'Qual a diferença entre lápis e gel para sobrancelhas?',
+    'O lápis é mais preciso, enquanto o gel oferece um acabamento mais natural e fixação.'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Make',
+    'Como fazer a maquiagem durar mais?',
+    'Use um primer antes da base e finalize com um spray fixador para prolongar a duração da maquiagem.'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
-)
-
-criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Make',
+    'Qual é a função do primer?',
+    'O primer prepara a pele para a maquiagem, ajudando a fixar e prolongar a duração dos produtos.'
 )
