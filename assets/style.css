@@ -30,7 +30,7 @@ body {
     /* background-color: aquamarine; */
     height: 100%;
     transform-style: preserve-3d;
-    transition: transform 300ms ease-in-out;
+    transition: transform 300ms;
 }
 
 .cartao__conteudo h3 {
@@ -48,6 +48,8 @@ body {
 .cartao__conteudo p {
     margin-top: 1rem;
     padding: 2rem;
+    margin-top: 4rem;
+    font-size: 1,4vw;
 }
 
 .cartao__conteudo__pergunta p {
@@ -70,10 +72,13 @@ body {
     position: absolute;
     height: 100%;
     width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
 }
 
 .cartao__conteudo__resposta{
     transform: rotateY(180deg);
+    border: 4px;
 }
 
 
