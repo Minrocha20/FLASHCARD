@@ -2,7 +2,7 @@ criaCartao(
     'Make',
     'Como escolher a cor da base?',
     'Teste a base na mandíbula; ela deve se misturar com o tom da pele.'
-
+)
 criaCartao(
     'Make',
     'O que é contorno?',
